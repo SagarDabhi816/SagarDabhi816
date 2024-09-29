@@ -1,3 +1,5 @@
+![Banner Image for Kera Cudmore GitHub Profile](github-header-image.png)
+
 # Hi, I'm SAGAR DABHI! ❤️
 ## CREATIVE FRONTEND DEVLOPER 
 
