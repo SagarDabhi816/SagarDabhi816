@@ -1,11 +1,9 @@
 ![Banner Image for Kera Cudmore GitHub Profile](github-header-image.png)
 
-# Hi, I'm SAGAR DABHI! ❤️
-## CREATIVE FRONTEND DEVLOPER 
-
 ### About Me 
 
 Hellleeyyooo there 👋🏻
+It's Me Sagar ❤️
 
 I Have Recently Completed My Bachelor's Degree In Bachelor Of Computer Application At Dr. Subhash University, Junagadh.
 
