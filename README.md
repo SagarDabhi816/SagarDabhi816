@@ -130,7 +130,7 @@ A ChatGPT-like application built with a React frontend and Node.js backend. It i
 
 `React` `Vite` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.IO` `JWT` `Gemini API` `Pinecone` `Tailwind CSS`
 
-** Links**
+**🔗 Links**
 
 -  [Source Code](https://github.com/SagarDabhi816/Chatgpt-clone)
 
